@@ -24,13 +24,13 @@ You are to find all the <span> tags in the file and pull out the numbers from th
 Look at the sample code provided. It shows how to find all of a certain kind of tag, loop through the tags and extract the various aspects of the tags.
 ...
 
-# Retrieve all of the anchor tags
+# Retrieved all of the anchor tags
 
 tags = soup('a')
 
 for tag in tags:
 
-# Look at the parts of a tag
+# Looked at the parts of a tag
 
 print 'TAG:',tag
 
