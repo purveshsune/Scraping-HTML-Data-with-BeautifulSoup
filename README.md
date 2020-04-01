@@ -1,4 +1,4 @@
-# Scraping-HTML-Data-with-BeautifulSoup
+# Scraping-Websites-with-BeautifulSoup
 
 
 Provided were two files for this project. One is a sample file where we get the sum for testing and the other is the actual data to process for the project.
